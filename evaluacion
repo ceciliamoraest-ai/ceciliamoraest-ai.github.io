@@ -1,0 +1,29 @@
+
+<html>
+<head>
+  <title>Examen final</title>
+ </head>
+ 
+ <body>
+  <center>
+<a href="tabla.html"> tabla colombia</a><br>
+<br>
+
+<table border>
+  <tr>
+    <th>Colores Badera </th>
+    <th> Audio </th>
+    <th> Escudo </th>
+  </tr>
+  <tr>
+  <td>los colores de la bandera de Colobia
+<p><font color = Yellow>simbolizan la riqueza del suelo(amarillo).</font></p><p>
+    <p> <font color = Blue>Los oceanos y rios (azul).</font></p>
+    <p> <font color = red>Y la sangre deramada por la idependencia(rojo)</font></p>
+    <p> <font color = Yellow>La franja amarilla representa la riqueza natural , la soberania , la armonia y la justicia (amarilla).</font></p>
+    <p> <font color = Blue>El azul simboliza los oceanos Pacifico y Caribe y la conexion con el mundo ; </font></p>
+    <p> <font color = red> El rojo conmemora la sangre derramada por los patriotas y tambien el amor, el poder y la fuerza</font></p>
+    <td> audio </td>
+   <td>  </td>
+  </tr>
+</table>
